@@ -5,4 +5,7 @@ I didnt read his blog post properly and discovered for myself that the binding g
 
 https://sergeytihon.wordpress.com/2015/12/01/how-to-restore-viual-studio-2015-after-update-1-dependency-dance/
 
+To use the script, simply open the linqpad script in linqpad, change the name, to your username, and run the script. The is small enough you can read the script to see what it does. I'm expecting there will be a few more of these type of hacks that one will need, depending on what extensions you install, and I'm assuming the hack fix might be along the same lines each time and I can modify my script each time.
+
+
 
